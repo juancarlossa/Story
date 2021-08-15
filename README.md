@@ -1,0 +1,2 @@
+# Story
+Just trying Git
